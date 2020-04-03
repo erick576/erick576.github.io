@@ -6,7 +6,7 @@
     "email": "ericn56@hotmail.com",
     "phone": "647-967-5269",
     "website": "https://erick576.github.io",
-    "summary": "Third Year Software Engineering student at York University",
+    "summary": " Currently a Third Year Software Engineering Student at York University",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,22 +18,12 @@
       {
         "network": "github",
         "username": "erick576",
-        "url": "http://github.com/changeme"
+        "url": "https://github.com/erick576"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
@@ -49,7 +39,7 @@
       ]
     },
     {
-      "name": "Object-oriented programming",
+      "name": "DevOps",
       "keywords": [
       ]
     }
