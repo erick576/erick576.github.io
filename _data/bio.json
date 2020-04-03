@@ -6,7 +6,7 @@
     "email": "ericn56@hotmail.com",
     "phone": "647-967-5269",
     "website": "https://erick576.github.io",
-    "summary": "I am a Third Year Software Engineering student at York University.",
+    "summary": "Third Year Software Engineering student at York University",
     "location": {
       "address": "",
       "postalCode": "",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "BackEnd Development",
+      "name": "Object-oriented programming",
       "keywords": [
       ]
     }
