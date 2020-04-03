@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Eric Kwok",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/template/images/Person.png",
+    "email": "ericn56@hotmail.com",
+    "phone": "647-967-5269",
+    "website": "https://erick576.github.io",
+    "summary": "I am a Third Year Software Engineering student at York University.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "erick576",
         "url": "http://github.com/changeme"
       },
       {
@@ -39,19 +39,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Cloud Architecture",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Visualization",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "BackEnd Development",
       "keywords": [
       ]
     }
