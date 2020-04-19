@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Eric Kwok",
+        "url": "https://ca.linkedin.com/in/eric-kwok-61033b187"
       }
     ]
   },
@@ -46,26 +46,38 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "C",
+        "Shell",
+        "HTML",
+        "CSS",
+        "RISC-V"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Tools/Frameworks",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Django",
+        "Flask",
+        "Jupyter Notebook",
+        "JavaFX",
+        "Bootstrap", 
+        "Pandas",
+        "Matplotlib"
+      ]
+    },
+     {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL"
       ]
     }
   ],
@@ -76,7 +88,7 @@
       "studyType": "BEng",
       "startDate": "2018-09-05",
       "endDate": "Present",
-      "gpa": "8.03 (3.81/4)",
+      "gpa": "8.03",
       "courses": [
       ]
     }
