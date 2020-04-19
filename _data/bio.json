@@ -10,9 +10,9 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Toronto",
       "countryCode": "",
-      "region": ""
+      "region": "Ontario"
     },
     "profiles": [
       {
@@ -62,7 +62,8 @@
       "name": "Tools/Frameworks",
       "level": "",
       "keywords": [
-        "Git/GitHub",
+        "Git",
+        "GitHub",
         "Django",
         "Flask",
         "Jupyter Notebook",
