@@ -85,13 +85,16 @@
   "education": [
     {
       "institution": "York University, ON",
-      "area": "Software Engineering (Expected April, 2023)\nGPA: 8.03 (3.81/4.0)",
+      "area": "Software Engineering (Expected April, 2023)",
       "studyType": "BEng",
       "startDate": "2018-09-05",
       "endDate": "Present",
       "gpa": "8.03",
       "courses": [
       ]
+    },
+    {
+     "area": "GPA: 8.03 (3.81/4.0)"
     }
   ],
   "work": [
