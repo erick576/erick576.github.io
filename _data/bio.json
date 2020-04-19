@@ -126,15 +126,55 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "(Java, JavaFX)",
+      "website": "",
+      "position": "VennFX",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+     {
+      "organization": "(Java, JavaFX)",
+      "website": "",
+      "position": "StudentRecordSystem",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+     {
+      "organization": "(Python, Django, HTML, CSS)",
+      "website": "",
+      "position": "MyItemLog",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "1",
+        "2",
+        "3"
+      ]
+    },
+     {
+      "organization": "(Python, Jupyter Notebook)",
+      "website": "",
+      "position": "WorldPopulationVisualization",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "1",
+        "2",
+        "3"
       ]
     }
   ],
