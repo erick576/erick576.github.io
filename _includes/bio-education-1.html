@@ -14,7 +14,7 @@
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
       <p class="ui no-bottom"><b>{{ entry.studyType }}, {{ entry.area }}</b></p>
       <p class="ui no-bottom"><b>{{ entry.gpa }}</b></p>
-      <p class="ui no-bottom">Relevant Courses: <b>{{ entry.courses }}</b></p>
+      <p class="ui no-bottom">Relevant Courses: <b>{{ entry.course }}</b></p>
       {% if entry.courses %}
       <ul style="margin: 0px;">
         {% for course in entry.courses %}
