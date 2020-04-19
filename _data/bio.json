@@ -90,11 +90,8 @@
       "startDate": "",
       "endDate": "Expected April 2023",
       "gpa": "GPA: 8.03 (3.81/4.0)",
+      "course": "Data Structures and Algorithms, Advanced Object Oriented Programming, Software Design, Discrete Math"
       "courses": [
-        "Data Structures and Algorithms",
-        "Advanced Object Oriented Programming",
-        "Software Design",
-        "Discrete Math"
       ]
     }
   ],
