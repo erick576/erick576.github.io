@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "DevOps",
+      "name": "Big Data",
       "keywords": [
       ]
     }
@@ -71,12 +71,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "York University, ON",
+      "area": "Software Engineering (Expected April, 2023)",
+      "studyType": "BEng",
+      "startDate": "2018-09-05",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "8.03 (3.81/4)",
       "courses": [
       ]
     }
