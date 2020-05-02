@@ -70,18 +70,33 @@
       ]
     },
     {
-      "name": "Tools/Frameworks",
+      "name": "Libraries/Frameworks",
       "level": "",
       "keywords": [
-        "Git",
-        "GitHub",
         "Django",
         "Flask",
         "Jupyter Notebook",
         "JavaFX",
         "Bootstrap", 
         "Pandas",
-        "Matplotlib"
+        "Matplotlib",
+        "Seaborn"
+      ]
+    },
+        {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Jira"
+      ]
+    },
+            {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": [
+        "Jenkins"
       ]
     },
      {
@@ -177,7 +192,7 @@
       ]
     },
      {
-      "organization": "(Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Plotly)",
+      "organization": "(Python, Jupyter Notebook)",
       "website": "",
       "position": "WorldPopulationVisualization",
       "startDate": "",
