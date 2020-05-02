@@ -34,12 +34,22 @@
       ]
     },
     {
-      "name": "Data Visualization",
+      "name": "Distributed Systems",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Structures And Algorithms",
       "keywords": [
       ]
     },
     {
       "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Data Visualization",
       "keywords": [
       ]
     }
