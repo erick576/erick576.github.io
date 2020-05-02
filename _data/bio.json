@@ -138,7 +138,7 @@
   ],
   "volunteer": [
     {
-      "organization": "(Java, JavaFX)",
+      "organization": "(Java, JavaFX, MySQL)",
       "website": "",
       "position": "VennFX",
       "startDate": "",
@@ -164,7 +164,7 @@
       ]
     },
      {
-      "organization": "(Python, Django, HTML, CSS)",
+      "organization": "(Python, Django, PostgreSQL, HTML, CSS)",
       "website": "",
       "position": "MyItemLog",
       "startDate": "",
@@ -177,7 +177,7 @@
       ]
     },
      {
-      "organization": "(Python, Jupyter Notebook)",
+      "organization": "(Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Plotly)",
       "website": "",
       "position": "WorldPopulationVisualization",
       "startDate": "",
