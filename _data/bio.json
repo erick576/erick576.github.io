@@ -6,7 +6,7 @@
     "email": "ericn56@hotmail.com",
     "phone": "647-967-5269",
     "website": "https://erick576.github.io",
-    "summary": " Currently a Third Year Software Engineering Student at York University",
+    "summary": " Third Year Software Engineering Student at York University",
     "location": {
       "address": "",
       "postalCode": "",
@@ -29,11 +29,6 @@
   },
   "interests": [
     {
-      "name": "Cloud Architecture",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Distributed Systems",
       "keywords": [
       ]
@@ -44,7 +39,7 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Backend Development",
       "keywords": [
       ]
     },
@@ -65,8 +60,7 @@
         "C++",
         "Shell",
         "HTML",
-        "CSS",
-        "RISC-V"
+        "CSS"
       ]
     },
     {
@@ -76,6 +70,8 @@
         "Django",
         "Flask",
         "Jupyter Notebook",
+        "Catch2",
+        "Google Benchmark",
         "JavaFX",
         "Bootstrap", 
         "Pandas",
@@ -90,13 +86,6 @@
         "Git",
         "GitHub",
         "Jira"
-      ]
-    },
-            {
-      "name": "CI/CD",
-      "level": "",
-      "keywords": [
-        "Jenkins"
       ]
     },
      {
@@ -115,8 +104,8 @@
       "studyType": "BEng",
       "startDate": "",
       "endDate": "Expected April 2023",
-      "gpa": "8.03 (3.81/4.0)",
-      "course": "Data Structures and Algorithms, Object Oriented Programming, Software Design, Operating System Fundamentals, Building E-Commerce Systems",
+      "gpa": "8.08 (3.82/4.0)",
+      "course": "Data Structures and Algorithms, Object Oriented Programming, Software Design, Operating System Fundamentals",
       "courses": [
       ]
     }
@@ -124,7 +113,7 @@
   "work": [
     {
       "company": "IBM Canada Limited",
-      "position": "Back End Developer (Cloud)",
+      "position": "Back End Developer",
       "website": "",
       "startDate": "May 2020",
       "endDate": "Aug 2020",
