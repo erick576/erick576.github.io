@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Distributed Systems",
+      "name": "Web Devlopment",
       "keywords": [
       ]
     },
@@ -39,12 +39,7 @@
       ]
     },
     {
-      "name": "Backend Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Data Visualization",
+      "name": "Distributed Systems",
       "keywords": [
       ]
     }
