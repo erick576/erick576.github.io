@@ -184,8 +184,8 @@
       "summary": "",
       "highlights": [
         "Used Python's Framework Jupyter Notebook to Visualize Population Data for Countries around the World",
-        "Web Scraped Data from a Website into a DataFrame using Beautiful Soup and Pandas",
-        "Used Matplotlib, Seaborn and plotly in order to represent and manipulate the information inside of the DataFrame"
+        "Web Scraped Data from a Website into a DataFrame using libraries Beautiful Soup and Pandas",
+        "Used Matplotlib, Seaborn and Plotly in order to represent and manipulate the information in the DataFrame"
       ]
     }
   ],
