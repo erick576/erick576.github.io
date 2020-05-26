@@ -157,9 +157,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "1",
-        "2",
-        "3"
+        "A GUI Application that is capable of effectively storing many Students with their unique attributes",
+        "Used Java's JavaFX Framework to implement the Model-View-Controller Design Pattern",
+        "Users are able to Add, View and Edit Student information as well as Export the Data to a CSV File"
       ]
     },
      {
