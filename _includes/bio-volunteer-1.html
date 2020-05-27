@@ -16,7 +16,7 @@
             {{ entry.position }}{% if entry.organization and (entry.organization != "") %} {{ entry.organization }}{% endif %}
           </b>
         </p>
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+        <p class="ui no-bottom"><b>Github Repository: </b><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
