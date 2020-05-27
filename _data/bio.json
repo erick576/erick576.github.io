@@ -144,9 +144,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "1",
-        "2",
-        "3"
+        "An Interactive Venn Diagram GUI Application that can Organize and Import/Export Information",
+        "Used Gradle to Automate the Building and Testing of the Application",
+        "Created an Interface that stores different Types of Commands in order to control the Undo/Redo Button"
       ]
     },
      {
@@ -159,7 +159,8 @@
       "highlights": [
         "A GUI Application that is capable of effectively storing many Students with their unique attributes",
         "Used Java's JavaFX Framework to implement the Model-View-Controller Design Pattern",
-        "Users are able to Add, View and Edit Student information as well as Export the Data to a CSV File"
+        "Users are able to Add, View and Edit Student information as well as Export the Data to a CSV File",
+        "Utilized core concepts in Object Oriented Programming (Inheritance, Aggregation, Exception Handling)"
       ]
     },
      {
