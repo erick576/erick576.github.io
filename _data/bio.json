@@ -114,10 +114,10 @@
       "endDate": "Aug 2020",
       "summary": "",
       "highlights": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "Created Functional and BDD style Unit Tests for Classes over the Template Instantiations for different Data Types using the Catch2 Framework",
+        "Created Benchmarks to Characterize Classes Performance over the Template Instantiations for different Data Types using the Google Benchmark Framework",
+        "",
+        ""
       ]
     },
     {
