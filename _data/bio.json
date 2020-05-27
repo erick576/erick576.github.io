@@ -172,7 +172,7 @@
       "summary": "",
       "highlights": [
         "A Django Web Application where Users can keep a Log of all their Possessions (Add, Edit, Delete, Export)",
-        "Utilized a RESTFUL API to create Communication between the Front-End and the Back-End of the Application",
+        "Utilized a RESTFUL API to create Communication between the Front and Back End of the Application",
         "Deployed the Web Application on Heroku and hosted the Database on PostgreSQL",
       ]
     },
