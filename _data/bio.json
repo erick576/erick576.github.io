@@ -171,9 +171,9 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "1",
-        "2",
-        "3"
+        "A Django Web Application where Users can keep a Log of all their Possessions (Add, Edit, Delete, Export)",
+        "Used REST HTTP Methods in order to access and manipulate data between the Application and Database",
+        "Deployed the Web Application on Heroku and hosted the Database on PostgreSQL",
       ]
     },
      {
