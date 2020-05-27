@@ -145,8 +145,8 @@
       "summary": "",
       "highlights": [
         "An Interactive Venn Diagram GUI Application that can Organize and Import/Export Information",
-        "Used Gradle to Automate the Building and Testing of the Application",
-        "Created an Interface that stores different Types of Commands in order to control the Undo/Redo Button"
+        "Used Gradle to manage Dependencies as well as Automate the Building and Testing of the Application",
+        "Implemented Undo/Redo Functionality from scratch by creating an Interface that Abstracted different types of Undo/Redo Commands"
       ]
     },
      {
@@ -157,7 +157,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "A GUI Application that is capable of effectively storing many Students with their unique attributes",
+        "A GUI Application that is capable of Effectively Storing many Students with their Unique Attributes",
         "Used Java's JavaFX Framework to implement the Model-View-Controller Design Pattern",
         "Users are able to Add, View and Edit Student information as well as Export the Data to a CSV File",
         "Utilized core concepts in Object Oriented Programming (Inheritance, Aggregation, Exception Handling)"
@@ -172,7 +172,7 @@
       "summary": "",
       "highlights": [
         "A Django Web Application where Users can keep a Log of all their Possessions (Add, Edit, Delete, Export)",
-        "Used REST HTTP Methods in order to access and manipulate data between the Application and Database",
+        "Utilized a RESTFUL API to create Communication between the Front-End and the Back-End of the Application",
         "Deployed the Web Application on Heroku and hosted the Database on PostgreSQL",
       ]
     },
@@ -185,8 +185,8 @@
       "summary": "",
       "highlights": [
         "Used Python's Framework Jupyter Notebook to Visualize Population Data for Countries around the World",
-        "Web Scraped Data from a Website into a DataFrame using libraries Beautiful Soup and Pandas",
-        "Used Matplotlib, Seaborn and Plotly in order to represent and manipulate the information in the DataFrame"
+        "Scraped Data from an Online Database into a DataFrame using BeautifulSoup and Pandas Libraries",
+        "Used Matplotlib, Seaborn and Plotly Libraries in order to Represent and Manipulate the Information in the DataFrame"
       ]
     }
   ],
