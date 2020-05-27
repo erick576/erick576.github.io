@@ -22,6 +22,7 @@
           {% for highlight in entry.highlights %}
           <li>{{ highlight }}</li>
           {% endfor %}
+          <br>
           <p class="ui no-bottom"><b>Github Repository: </b><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         </ul>
         {% endif %}
