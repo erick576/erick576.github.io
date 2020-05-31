@@ -105,7 +105,7 @@
       "startDate": "",
       "endDate": "Expected April 2023",
       "gpa": "8.08 (3.82/4.0)",
-      "course": "Data Structures and Algorithms, Object Oriented Programming, Software Design, Operating System Fundamentals",
+      "course": "Data Structures and Algorithms, Object Oriented Programming, Software Design, Operating System Fundamentals, Digital Design Logic, Software Development Project, Embedded Systems",
       "courses": [
       ]
     }
@@ -119,8 +119,9 @@
       "endDate": "Aug 2020",
       "summary": "",
       "highlights": [
-        "Created Functional and BDD style Unit Tests for Classes over the Template Instantiations for different Data Types using the Catch2 Framework",
-        "Created Benchmarks to Characterize Classes Performance over the Template Instantiations for different Data Types using the Google Benchmark Framework",
+        "Worked on the Data Structure used to Optimize Multi-dimensional Queries for the Calculation Engine in the IBM TM1 Server",
+        "Created Functional and BDD Style Unit Tests for Classes over several Data Types using the Catch2 Framework ",
+        "Created Benchmarks to Characterize Classes Performance over several Data Types using Google Benchmark",
         "",
         ""
       ]
