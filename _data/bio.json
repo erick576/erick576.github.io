@@ -119,11 +119,10 @@
       "endDate": "Aug 2020",
       "summary": "",
       "highlights": [
-        "Worked on the Data Structure used to Optimize Multi-dimensional Queries for the Calculation Engine in the IBM TM1 Server",
-        "Created Functional and BDD Style Unit Tests for Classes over several Data Types using the Catch2 Framework ",
-        "Created Benchmarks to Characterize Classes Performance over several Data Types using Google Benchmark",
-        "",
-        ""
+        "Worked on the Main Data Structures used to Optimize Multi-dimensional Queries for the Calculation Engine in the IBM TM1 Server",
+        "Created Functional and BDD Style Unit Tests for Classes over several Data Types using the Catch2 Framework Increasing Testing Coverage in Several Classes to Over 80%",
+        "Created Scalable Benchmarks to Characterize Classes Performance over several Data Types using Google Benchmark Allowing for Baseline Comparisons of Code Changes",
+        "Optimized And Resolved Errors in the Data Structure Used to Insert and Delete Ranges Using Memory Management, thus Increasing Query Execution By About 10%",
       ]
     },
     {
