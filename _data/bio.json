@@ -43,7 +43,12 @@
       ]
     },
         {
-      "name": "Distributed Systems",
+      "name": "Operating Systems",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Database Systems",
       "keywords": [
       ]
     }
