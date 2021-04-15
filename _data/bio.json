@@ -167,8 +167,8 @@
       "highlights": [
         "Implemented the business model from the specification of an abstract UI for an RPG game",
         "Created acceptance tests for my business model while performing regression testing while developing it",
-        "Used the state design pattern to implement the moving and specific details of different states within the game",
-        "Made a design diagram specifying the different client/supplier and parent/child relationships within the project"
+        "Used the state design pattern to implement the moving and specific details of different states in the game",
+        "Made a design diagram specifying the different client/supplier and parent/child relationships in the project"
       ]
     },
     {
