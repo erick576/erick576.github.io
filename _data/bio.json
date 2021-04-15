@@ -158,6 +158,20 @@
   ],
   "volunteer": [
     {
+      "organization": "(Eiffel)",
+      "website": "https://github.com/erick576/SpaceDefender",
+      "position": "SpaceDefender",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Implemented the business model from the specification of an abstract UI for an RPG game",
+        "Created acceptance tests for my business model while performing regression testing while developing it",
+        "Used the state design pattern to implement the moving and specific details of different states within the game",
+        "Made a design diagram specifying the different client/supplier and parent/child relationships within the project"
+      ]
+    },
+    {
       "organization": "(Java, JavaFX, MySQL)",
       "website": "https://github.com/erick576/VennFX",
       "position": "VennFX",
