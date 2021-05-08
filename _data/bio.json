@@ -58,46 +58,48 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Java",
-        "Python",
-        "C",
-        "C++",
-        "Eiffel",
-        "Shell",
-        "HTML",
-        "CSS"
+        "Java, 
+        "Python", 
+        "C/C++", 
+        "SQL", 
+        "HTML/CSS", 
+        "Shell", 
+        "Eiffel"
       ]
     },
     {
-      "name": "Libraries/Frameworks",
+      "name": "Frameworks",
       "level": "",
       "keywords": [
         "Django",
-        "Jupyter Notebook",
-        "Catch2",
-        "Google Benchmark",
-        "JavaFX",
-        "Bootstrap", 
-        "Pandas",
-        "Matplotlib",
-        "Seaborn"
+        "Jupyter Notebook", 
+        "Catch2", 
+        "Google Benchmark", 
+        "gRPC", 
+        "JUnit", 
+        "JavaFX", 
+        "JDBC"
       ]
     },
         {
-      "name": "Tools",
+      "name": "Developer Tools",
       "level": "",
       "keywords": [
         "Git",
         "GitHub",
+        "Bitbucket",
         "Jira"
       ]
     },
      {
-      "name": "Databases",
+      "name": "Libraries",
       "level": "",
       "keywords": [
-        "MySQL",
-        "PostgreSQL"
+        "pandas", 
+        "NumPy", 
+        "Matplotlib", 
+        "seaborn", 
+        "Beautiful Soup"
       ]
     }
   ],
@@ -108,7 +110,7 @@
       "studyType": "BEng",
       "startDate": "",
       "endDate": "Expected April 2023",
-      "gpa": "TBD",
+      "gpa": "7.94 GPA (3.77/4.0)",
       "course": "Data Structures and Algorithms, Object Oriented Programming, Software Design, Operating System Fundamentals, Software Development Project, Introduction to Database Systems",
       "courses": [
       ]
@@ -123,7 +125,7 @@
       "endDate": "Aug 2021",
       "summary": "",
       "highlights": [
-                "TBD"     
+                "To Be Uploaded"     
       ]
     },
     {
