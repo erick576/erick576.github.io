@@ -120,7 +120,11 @@
       "endDate": "Aug 2022",
       "summary": "",
       "highlights": [
-                "Will Be Updated"
+                " Worked on Presto, an open source distributed relational database for fast and easy SQL analytics over big data",
+                "Implemented the catalog server which serves as a distributed cache for metadata to reduce cpu/memory pressure and calls for external dependencies",
+                "Defined and implemented an Apache Thrift service to transport metadata results between servers through serialization/deserialization of the objects. Made use of Jackson Modules to resolve interface implementation types",
+                "Added the catalog server as separate node by injecting dependencies with Google Guice and installing them upon startup. Allowed it to communicate with the presto server and added end to end tests to confirm functionality",
+                "Enabled multi level caching between the presto server and catalog server for metadata results. Added run time stats to monitor performance metrics like cache hit rate"
       ]
     },
    {
