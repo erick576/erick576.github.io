@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Eric Kwok",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://erick576.github.io/images/PersonIcon.jpg",
     "email": "ericn56@hotmail.com",
     "website": "https://erick576.github.io",
-    "summary": "Senior Software Engineering Student at York University",
+    "summary": "Software Engineering Graduate at York University",
     "location": {
       "address": "",
       "postalCode": "",
@@ -103,8 +103,8 @@
       "institution": "York University, ON",
       "area": "Software Engineering",
       "studyType": "BEng",
-      "startDate": "2018",
-      "endDate": "2022",
+      "startDate": "",
+      "endDate": "Completed Dec 2022",
       "gpa": "7.89 GPA (3.75/4.0)",
       "course": " Data Structures and Algorithms, Operating System Fundamentals, Software Design, Object Oriented Programming, Database Management Systems, Big Data Systems, Software Engineering Testing",
       "courses": [
