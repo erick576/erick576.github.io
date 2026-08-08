@@ -5,7 +5,7 @@
     "picture": "https://erick576.github.io/images/PersonIcon.jpg",
     "email": "ericn56@hotmail.com",
     "website": "https://erick576.github.io",
-    "summary": "Software Engineering Graduate at York University",
+    "summary": "Software Engineer at Bloomberg",
     "location": {
       "address": "",
       "postalCode": "",
@@ -33,12 +33,22 @@
       ]
     },
      {
-      "name": "Database Management Systems",
+      "name": "Data Lakes & Lakehouse Storage",
       "keywords": [
       ]
     },
     {
       "name": "Data Discovery",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Query Engines",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Stream Processing",
       "keywords": [
       ]
     }
@@ -48,53 +58,45 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Java", 
-        "Python", 
-        "C/C++", 
-        "SQL", 
-        "HTML/CSS", 
-        "Shell", 
-        "Eiffel"
+        "Java",
+        "Python",
+        "SQL",
+        "Shell"
       ]
     },
     {
-      "name": "Frameworks",
+      "name": "Data & Distributed Systems",
       "level": "",
       "keywords": [
-        "Django",
-        "Jupyter Notebook", 
-        "Catch2", 
-        "Google Benchmark", 
-        "JUnit", 
-        "JavaFX", 
-        "JDBC",
-        "Spring",
-        "Guice",
-        "Thrift"
+        "Apache Iceberg",
+        "Apache Spark",
+        "Apache Flink",
+        "Trino",
+        "Kafka",
+        "RabbitMQ",
+        "Argo Workflows",
+        "Superset"
       ]
     },
-        {
-      "name": "Developer Tools",
+    {
+      "name": "Infrastructure & Tools",
       "level": "",
       "keywords": [
+        "Kubernetes",
+        "Docker",
         "Git",
         "GitHub",
-        "Bitbucket",
         "Jira",
-        "Docker",
         "Postman"
       ]
     },
-     {
-      "name": "Libraries",
+    {
+      "name": "AI Tools",
       "level": "",
       "keywords": [
-        "pandas", 
-        "NumPy", 
-        "Matplotlib", 
-        "seaborn", 
-        "Beautiful Soup",
-        "socket"
+        "Claude Code",
+        "GitHub Copilot",
+        "MCP"
       ]
     }
   ],
@@ -112,6 +114,22 @@
     }
   ],
   "work": [
+    {
+      "company": "Bloomberg L.P.",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "Mar 2023",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Build and maintain a petabyte-scale data lake (~840 production tables) built on the Apache Iceberg table format, serving as the storage and query backbone for a financial pricing product",
+        "Develop and operate decoupled maintenance services for the Iceberg tables (compaction, snapshot expiration, orphan-file cleanup, and TTL-based retention) to control storage growth and sustain query performance at scale",
+        "Build and operate a Trino cluster on container-native infrastructure serving tens of thousands of queries/day for 200+ users, delivering interactive, ad-hoc SQL analytics over petabytes of data",
+        "Build streaming ingestion pipelines with Apache Flink that consume from Kafka and write to Iceberg tables in real time, ingesting hundreds of billions of records per day",
+        "Build batch ingestion pipelines with Apache Spark, triggered via RabbitMQ, that load data into Iceberg tables",
+        "Orchestrate data pipelines with Argo Workflows and surface data monitoring and analytics through Superset dashboards"
+      ]
+    },
     {
       "company": "Meta Platforms, Inc",
       "position": "Software Engineering Intern",
