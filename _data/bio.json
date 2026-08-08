@@ -33,7 +33,7 @@
       ]
     },
      {
-      "name": "Data Lakes & Lakehouse Storage",
+      "name": "Data Lakehouses",
       "keywords": [
       ]
     },
@@ -86,8 +86,7 @@
         "Docker",
         "Git",
         "GitHub",
-        "Jira",
-        "Postman"
+        "Jira"
       ]
     },
     {
@@ -126,8 +125,8 @@
         "Develop and operate decoupled maintenance services for the Iceberg tables (compaction, snapshot expiration, orphan-file cleanup, and TTL-based retention) to control storage growth and sustain query performance at scale",
         "Build and operate a Trino cluster on container-native infrastructure serving tens of thousands of queries/day for 200+ users, delivering interactive, ad-hoc SQL analytics over petabytes of data",
         "Build streaming ingestion pipelines with Apache Flink that consume from Kafka and write to Iceberg tables in real time, ingesting hundreds of billions of records per day",
-        "Build batch ingestion pipelines with Apache Spark, triggered via RabbitMQ, that load data into Iceberg tables",
-        "Orchestrate data pipelines with Argo Workflows and surface data monitoring and analytics through Superset dashboards"
+        "Build large-scale batch ingestion pipelines with Apache Spark that efficiently load high-volume data sources into Iceberg tables",
+        "Orchestrate data pipelines with Argo Workflows, leveraging it for both scheduling and end-to-end observability into pipeline execution and health"
       ]
     },
     {
