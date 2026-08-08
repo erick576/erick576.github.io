@@ -124,8 +124,8 @@
         "Built and maintained a petabyte-scale data lake (~840 production tables) built on the Apache Iceberg table format, serving as the storage and query backbone for a financial pricing product",
         "Developed and operated decoupled maintenance services for the Iceberg tables (compaction, snapshot expiration, orphan-file cleanup, and TTL-based retention) to control storage growth and sustain query performance at scale",
         "Built and operated a Trino cluster on container-native infrastructure serving tens of thousands of queries/day for 200+ users, delivering interactive, ad-hoc SQL analytics over petabytes of data",
-        "Built streaming ingestion pipelines with Apache Flink that consume from Kafka and write to Iceberg tables in real time, ingesting hundreds of billions of records per day",
-        "Built large-scale batch ingestion pipelines with Apache Spark that efficiently load high-volume data sources into Iceberg tables",
+        "Built a self-service streaming platform on Apache Flink that lets teams onboard Kafka sources into Iceberg, delivering real time data at hundreds of billions of records per day",
+        "Extended the platform with a Spark-based batch ingestion framework that handles high-volume backfills and on-demand loads into Iceberg, abstracting underlying complexity behind declarative config",
         "Orchestrated data pipelines with Argo Workflows, leveraging it for both scheduling and end-to-end observability into pipeline execution and health"
       ]
     },
